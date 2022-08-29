@@ -1,0 +1,14 @@
+{
+    "ModTitle": "PhysicalCombatOverhaul",
+    "ModVersion": "2.00",
+    "ModAuthor": "Kirk.O",
+    "ContactInfo": "kirkoliveri@gmail.com",
+    "DFUnity_Version": "0.13.5",
+    "ModDescription": "Completely Overhauls Daggerfall's Vanilla Combat System With New Mechanics, Features, And Settings.",
+    "GUID": "5a0317fc-6006-44f3-b269-09c77398ca70",
+    "Files": [
+        "Assets/Game/Mods/DFU-Mod_Viewable-Skill-Progress/Scripts/ViewableSkillProgressMain.cs",
+        "Assets/Game/Mods/DFU-Mod_Viewable-Skill-Progress/Scripts/VSPCharacterSheetOverride.cs",
+        "Assets/Game/Mods/DFU-Mod_Viewable-Skill-Progress/modsettings.json"
+    ]
+}
